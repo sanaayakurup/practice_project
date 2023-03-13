@@ -1,5 +1,5 @@
 from setuptools import find_packages,setup #will find all the packages 
-
+#https://www.youtube.com/watch?v=Rv6UFGNmNZg
 def get_requirements(file_path):
     ''' 
     This func returns a list of required pacakges
